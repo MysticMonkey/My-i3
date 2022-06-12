@@ -1,6 +1,8 @@
 # My-i3
 i3 backup for learning
+
 create folder in ~/.config
+
 mkdir ~/.config/i3
 
 
